@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A simple rock,paper, scissors game
+A simple command line rock,paper, scissors game
